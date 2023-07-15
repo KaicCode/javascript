@@ -21,3 +21,7 @@ function soma(a, b){
 
 var soma1 = soma(2, 5);
 console.log(soma1)
+
+function name(params) {
+    
+}
